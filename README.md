@@ -56,13 +56,14 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|       1200🔢       01         12
-
-|         1200                    |
+|         1204            |          24              |
+|         1205            |          68              |
+|         1206            |          00              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1281" alt="image" src="https://github.com/user-attachments/assets/a1f1ecce-9935-4d00-af69-e43c151c7eef" />
+
 
 ---
 
@@ -111,11 +112,13 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1204            |          00              |
+|         1205            |          00              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="972" alt="image" src="https://github.com/user-attachments/assets/65b818a7-ac19-451d-b5da-d013d4fed86f" />
+
 
 ---
 
@@ -162,11 +165,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1204            |          44              |
+|         1205            |          51              |
+|         1206            |          97              |
+|         1207            |          0A              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1348" alt="image" src="https://github.com/user-attachments/assets/caea912c-de7b-4d81-90da-66f535edf974" />
+
 
 ---
 
@@ -210,11 +217,15 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|         1204            |          01              |
+|         1205            |          00              |
+|         1206            |          00              |
+|         1207            |          00              |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1600" height="1581" alt="image" src="https://github.com/user-attachments/assets/5d56dbc0-7793-4c46-88a7-089dd36cbdb5" />
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
